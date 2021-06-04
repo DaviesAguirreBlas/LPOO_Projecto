@@ -1,0 +1,3 @@
+luis;granjero ;asistio;21/05/2021;limpiar el corral de cuy;aspiradora;
+Diego;granjero ;asistio;22/05/2021; alimentar a las alpacas;pala;
+Davies;administrador;asistio;23/05/2021; revisar los sensores;tablet;

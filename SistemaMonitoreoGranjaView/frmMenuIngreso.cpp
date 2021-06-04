@@ -1,0 +1,2 @@
+#include "frmMenuIngreso.h"
+

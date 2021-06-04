@@ -1,0 +1,2 @@
+C:\Users\PC\Downloads\COPIA DE SEGURIDAD\Proyecto LPOO\SistemaMonitoreoGranja\SistemaMonitoreoGranja\SistemaMonitoreoGranjaModel\Debug\SistemaMonitoreoGranjaModel.vcxprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Cursos\LPOO\SistemaMonitoreoGranja\SistemaMonitoreoGranjaModel\Debug\SistemaMonitoreoGranjaModel.vcxprojAssemblyReference.cache

@@ -1,0 +1,57 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly SistemaMonitoreoGranjaModel, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class SistemaMonitoreoGranjaModel.Alimentos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaModel.Farmacos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, Int32, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaModel.Produccion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, Int32, System.String, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaModel.Herramientas: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaModel.Almacen: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, Int32, System.String, System.String, System.Collections.Generic.List`1[SistemaMonitoreoGranjaModel.Farmacos], System.Collections.Generic.List`1[SistemaMonitoreoGranjaModel.Alimentos], System.Collections.Generic.List`1[SistemaMonitoreoGranjaModel.Produccion], System.Collections.Generic.List`1[SistemaMonitoreoGranjaModel.Herramientas]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaModel.Medicion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(System.String, System.String, System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaModel.Sensores: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaModel.Comederos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Int32, Int32, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaModel.AreaDeAnimales: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, System.String, System.String, System.String, Int32, Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String raza : Public
+    System.String color : Public
+    System.String tipo_animal : Public
+    System.String sexo : Public
+    System.String estado_salud : Public
+    Int32 peso : Public
+    Int32 edad : Public
+    Int32 cantidad : Public
+    System.Collections.Generic.List`1[SistemaMonitoreoGranjaModel.Comederos] listaComederos : Public
+Class SistemaMonitoreoGranjaModel.Incubadoras: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :SistemaMonitoreoGranjaModel.AreaDeAnimales
+    Void .ctor(Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaModel.Movimiento: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(System.String, System.String, System.String, System.String, SistemaMonitoreoGranjaModel.AreaDeAnimales, SistemaMonitoreoGranjaModel.Almacen, SistemaMonitoreoGranjaModel.Alimentos, SistemaMonitoreoGranjaModel.Produccion, SistemaMonitoreoGranjaModel.Herramientas): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaModel.Usuario: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaModel.Tarea: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, System.String, System.String, System.String, SistemaMonitoreoGranjaModel.Herramientas, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaModel.Personal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, System.String, System.String, System.String, SistemaMonitoreoGranjaModel.Usuario, SistemaMonitoreoGranjaModel.Tarea): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

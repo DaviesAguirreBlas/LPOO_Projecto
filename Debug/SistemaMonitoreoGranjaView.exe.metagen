@@ -1,0 +1,145 @@
+  SistemaMonitoreoGranjaView.frmAlimentos.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmAreaDeAnimales.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmComederos.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmEditarSensores.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmIncubadoras.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMantAlimentos.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMantAreaDeAnimales.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMantComederos.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMantSensores.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMant_Alimentos.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMant_Almacen.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMant_Elementos_Almacen.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMant_Farmacos.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMant_Herramientas.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMant_Personal.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMant_Produccion.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMedicion.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMenuIngreso.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMenu_Ingreso.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMenu_Registro.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmMoverElemento.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmNuevaArea.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmNuevoAlimento.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmNuevoComedero.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmpersonal.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmPrincipal.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmRegistraFarmaco.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmRegistraHerramienta.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmRegistra_Personal.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmRegistra_Tarea.resources - Embedded, ContainedInManifestFile, 
+  SistemaMonitoreoGranjaView.frmSensores.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly SistemaMonitoreoGranjaView, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly SistemaMonitoreoGranjaController, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly SistemaMonitoreoGranjaModel, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class SistemaMonitoreoGranjaView.frmAlimentos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMedicion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmSensores: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmComederos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmIncubadoras: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmEditarSensores: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmNuevoComedero: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmNuevaArea: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMantAreaDeAnimales: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmAreaDeAnimales: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmNuevoAlimento: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMantAlimentos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMantComederos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMantSensores: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMant_Alimentos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMant_Almacen: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMoverElemento: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmRegistraFarmaco: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMant_Farmacos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmpersonal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmRegistraHerramienta: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMant_Herramientas: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMenu_Registro: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMant_Elementos_Almacen: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmRegistra_Personal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmRegistra_Tarea: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMant_Personal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMant_Produccion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMenuIngreso: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmMenu_Ingreso: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaView.frmPrincipal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

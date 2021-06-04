@@ -1,0 +1,3 @@
+Proteinas;00000;AN43;1;xd
+Nivel de Agua;00002;VN56;1;litro
+Comida;00001;DMK3;1;Kg

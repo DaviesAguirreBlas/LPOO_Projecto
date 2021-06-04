@@ -1,0 +1,26 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly SistemaMonitoreoGranjaController, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly SistemaMonitoreoGranjaModel, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class SistemaMonitoreoGranjaController.AlmacenController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaController.AreasDeAnimalesController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    CargarAreasDesdeArchivo(): PrivateScope, Public, HideBySig
+    BuscarComederosArea(String): PrivateScope, Public, HideBySig
+    ObtenerCantidadAreas(): PrivateScope, Public, HideBySig
+    ObtenerAreaLista(Int32): PrivateScope, Public, HideBySig
+Class SistemaMonitoreoGranjaController.SensoresController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class SistemaMonitoreoGranjaController.ComedoresController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    buscarComedero(String): PrivateScope, Public, HideBySig
+Class SistemaMonitoreoGranjaController.HerramientasController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
